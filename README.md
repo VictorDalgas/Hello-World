@@ -1,3 +1,3 @@
 # Hello-World
-My first repositiry
-I am looking forward to learning GIT
+
+run apt-get && apt-get install -ygit wget
