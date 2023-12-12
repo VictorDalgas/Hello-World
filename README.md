@@ -1,3 +1,6 @@
 # Hello-World
 
-run apt-get && apt-get install -ygit wget
+
+from rocker /rstudio
+run apt-get && apt-get install -ygit curl wget
+
